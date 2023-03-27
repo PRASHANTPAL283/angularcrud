@@ -1,2 +1,2 @@
 this is angular text file
-checkinh
+checkinh no checking
