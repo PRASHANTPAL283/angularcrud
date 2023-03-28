@@ -3,3 +3,5 @@ checkinh no checking
 hi prasha nt pal working is successfull. thanks
 checking git pull method
 yes checked pull method works fine !!
+this changes only merge to developer branch not main
+check this out
